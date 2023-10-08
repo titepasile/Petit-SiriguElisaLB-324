@@ -25,3 +25,14 @@ Als letztes müssen Sie VisualStudio Code öffnen (Entwicklungsumgebung). Danach
 
 ## Aufgabe 4
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
+
+Als erstes muss man sich auf Azure anmelden. Danch müssen Sie eine `Web app` erstellen. 
+Wenn das alles gemacht ist müssen Sie auf ihre `Web app` klicken und folgende Schritte ausführen:
+
+`Einstelungen` -> `Konfiguration` -> Ein neues Fenster öffnet sich -> `Neue Anwendungseinstellung`
+
+![alt text](./Bilder/Bild1.png)
+
+Geben Sie folgendes ein und klicken Sie dann auf `speichern` in der oberen Leiste.
+
+![alt text](./Bilder/Bild2.png)
